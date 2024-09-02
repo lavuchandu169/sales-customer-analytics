@@ -1,4 +1,4 @@
-Sales and Customer Analytics
+**Sales and Customer Analytics**
 Overview
 This project presents a comprehensive analysis of an augmented retail dataset. The analysis covers various stages, including data preparation, exploratory data analysis (EDA), feature engineering, and predictive modeling using machine learning algorithms. The primary goal of this project is to predict SalesAmount using advanced machine learning models and to evaluate their performance.
 
