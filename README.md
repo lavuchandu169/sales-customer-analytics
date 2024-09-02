@@ -1,4 +1,6 @@
 ***Sales and Customer Analytics***
+
+
 Overview
 This project analyzes an augmented retail dataset to predict SalesAmount using machine learning models. It includes data preparation, exploratory analysis, and model building with Random Forest and Gradient Boosting.
 
